@@ -1,0 +1,15 @@
+{
+  "name": "js-basics-lesson",
+  "version": "1.0.0",
+  "description": "JavaScript Basics Learning Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["javascript", "learning", "education"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
